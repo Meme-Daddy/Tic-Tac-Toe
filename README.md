@@ -1,10 +1,17 @@
 # Tic-Tac-Toe
 A very basic 2 player Tic Tac Toe game that plays in the terminal
 
-![Screenshot 2022-12-22 164812](https://user-images.githubusercontent.com/57479494/209249182-ba5eebb4-17a2-474c-94cf-411fb9d4cd1a.jpg)
+![image](https://user-images.githubusercontent.com/57479494/209429452-7fcf2ff8-904b-492b-bc56-5f6ed92c8000.png)
 
-**Changelog**
-- Added ability to replay the game
+### **2.0.0 Patch Notes 12/24/22**
+
+**GUI Changes**
+- Removed numbers on the board for better visual clarity
+- Added controls on screen
+- Changed menu to better accommodate for the new Player vs CPU game mode 
+
+**Core Changes**
+- Added a new Player vs CPU game mode
 
 **Coming Soon**
-- AI CPU to play against
+- A hard mode for Player vs CPU 
